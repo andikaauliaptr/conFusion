@@ -62,3 +62,13 @@ body{
     min-height: 280px;
 }
 
+#reserveFormModal > .modal-lg {
+	width: 40%;
+}
+
+#carouselButtons {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+}
+
